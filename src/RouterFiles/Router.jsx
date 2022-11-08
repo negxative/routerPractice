@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter,useRoutes} from 'react-router-dom'
+import { useRoutes} from 'react-router-dom'
 import { Content } from '../Componnents/Content/FIRST_EL/Content'
 import { ContentFourth} from '../Componnents/Content/Fourth_el/ContentFourth'
 import { ContentThird} from '../Componnents/Content/Third_el/ContentThird'
